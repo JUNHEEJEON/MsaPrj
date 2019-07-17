@@ -1,4 +1,4 @@
-# MsaPrj1
+# MsaPrj
 Kubernetes Project for MSA
 
 ## info
